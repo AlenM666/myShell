@@ -32,7 +32,7 @@ sudo apt install build-essential cmake libreadline-dev
 ### Clone and Build:
 
 ```bash
-git clone https://github.com/AlenM666/myShell.git
+git clone https://github.com/AlenM666/myShell
 cd myShell
 mkdir build && cd build
 cmake ..
